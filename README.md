@@ -5,6 +5,7 @@
 [![LinkedIn]](https://www.linkedin.com/in/sambutton12/)
 
 </div>
+
 ## Tech skills
 
 <table>
@@ -74,9 +75,7 @@
 | [MakersBnB](https://github.com/SamButton12/april22-makersbnb-jaguar)| Group | A clone of AirBnB | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL |
 |[Bank Tech Test](https://github.com/SamButton12/bank_tech_test) | Alone | A simple banking app made during the Makers course that mimicks a tech test.| JavaScript, Node.js, Jest |
 
-
-## Work Experience
-
+## Education
 ### Makers Academy (Mar 2022 to Jul 2022)<br>
 **16-week intensive coding bootcamp**
 
@@ -84,6 +83,14 @@
 - Everything we did during the week was in a pair programming setting. We would complete our tasks often using the pomodoro technique to schedule breaks which I found would easily increase our efficiency, resillience to work through blockers, enjoyment and our code quality.
 - For these projects, we followed Agile methodologies including morning standups, wrote and estimated ticket times using trello boards, made a goals and planning Miro board and set out our values and expectations from one another before starting any work. This made it feel like we were working in a live tech department.
 - Undertook numerous external reviews to mimick job interview tech tests. These allowed me to gain critical feedback on my coding process in order to grow in both confidence and ability each week.
+
+### Cardiff Metropolitan University (2015-2017)<br>
+**Sports Performance Analysis, Upper Second-Class Honours**
+- External placement: Head of Rugby Analysis: Cardiff University RFC
+- External Placement: Performance Analyst: Celtic Dragons Netball Club
+- Internal Placement: Performance Analyst: Cardiff Metropolitan University Netball Club
+
+## Work Experience
 
 ### 5aside.org -_Sports Operations_ (May 2020 to Mar 2022)<br>
 - Responsible for the day to day operations of over 40 5-a-side football leagues in london.
@@ -102,55 +109,6 @@
 ### Welsh Universities Rugby 7s - _Performance Analyst_ (Feb 2017 to Jul 2017)<br>
 ### Welsh Rugby Union - _Performance Analyst_ (Nov 2016 to May 2017)<br>
 ### Coventry City Football Club - _Performance Analyst_ (Oct 2014 to May 2015)<br>
-
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Cardiff Metropolitan University (2015-2017)
-
-- Sports Performance Analysis, Upper Second-Class Honours
-- External placement: Head of Rugby Analysis: Cardiff University RFC
-- External Placement: Performance Analyst: Celtic Dragons Netball Club
-- Internal Placement: Performance Analyst: Cardiff Metropolitan University Netball Club
 
 ## Hobbies
 - I enjoy nearly every sport on the planet. I have played Football, Rubgby Union, Cricket, Hockey, Athletics, Tennis and Badminton all to club level, and also regularly enjoy Cycling, Golf, Squash, Swimming and watching F1.
