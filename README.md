@@ -1,10 +1,26 @@
 <div align="center">
 
 # Sam Button
-  
+
+### Contents
+
+[![Tech-Skills](https://img.shields.io/badge/-Tech%20Skills-023e8a)](#tech-skills) | 
+[![Projects](https://img.shields.io/badge/-Key%20Projects-0077b6)](#projects) | 
+[![Education](https://img.shields.io/badge/-Education-0096c7)](#education) | 
+[![Work-Experience](https://img.shields.io/badge/-Work%20Experience-00b4d8)](#work-experience) | 
+[![Key-Skills](https://img.shields.io/badge/-Key%20Skills-48cae4 )](#key-skills) | 
+[![Hobbies](https://img.shields.io/badge/-Hobbies-90e0ef)](#hobbies) |
+
+### Links
 [![LinkedIn]](https://www.linkedin.com/in/sambutton12/)
 
+Since leaving the sports analysis world in 2019, I have been searching for a more meaningful career that allows me to use my naturally analytical brain to find a job that I enjoy, can have a healthy work-life balance and can problem-solve on a daily basis. In March 2022 I made the choice to stop working what I always described as "gap-filler" jobs, and took the plunge to apply to Makers Academy software engineering bootcamp to start a new beginning.
+
+I first started the code academy Ruby course in January 2022 and managed to log my first 'Hello, World!' not long after. Since then I have been improving every single day that I code, and am now capable of TDD'ing full stack MERN applications. What a ride these past few months have been.
+  
 </div>
+
+---
 
 ## Tech skills
 
@@ -109,6 +125,8 @@
 ### Welsh Universities Rugby 7s - _Performance Analyst_ (Feb 2017 to Jul 2017)<br>
 ### Welsh Rugby Union - _Performance Analyst_ (Nov 2016 to May 2017)<br>
 ### Coventry City Football Club - _Performance Analyst_ (Oct 2014 to May 2015)<br>
+
+
 
 ## Hobbies
 - I enjoy nearly every sport on the planet. I have played Football, Rubgby Union, Cricket, Hockey, Athletics, Tennis and Badminton all to club level, and also regularly enjoy Cycling, Golf, Squash, Swimming and watching F1.
