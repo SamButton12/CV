@@ -147,3 +147,6 @@ At Makers, I've learnt to formalise my problem solving by using TDD to write my 
 
 <!-- Badge Links -->
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+
+
+.
