@@ -126,7 +126,7 @@ At Makers, I've learnt to formalise my problem solving by using TDD to write my 
 ### 5aside.org -_Sports Operations_ (May 2020 to Mar 2022)<br>
 - Responsible for the day to day operations of over 40 5-a-side football leagues in london.
 - Liaising with referees to implement the referee rota and build relationships with them.
-- Maintain the codepress website, updating league dates, prices and availabilities.
+- Maintain the wordpress website, updating league dates, prices and availabilities.
 
 ### 94Tech - _Technology Search Consultant_ (Nov 2019 to Apr 2020)<br>
 -	Creating new business opportunities by building relationships with other practice leaders within existing clients, as well as engaging future clients at both the line manager and HR level.
