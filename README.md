@@ -74,8 +74,6 @@ I first started the code academy Ruby course in January 2022 and managed to log 
           <li>Pair programming</li>
           <li>Git workflow</li>
           <li>Code review</li>
-          <li>Get code visibility</li>
-          <li>Remote working</li>
         </ul>
       </td>
     </tr>
